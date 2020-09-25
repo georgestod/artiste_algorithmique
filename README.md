@@ -6,3 +6,6 @@ There are two aspects we focus on: first \which technologies can help creating n
 
 
 (1) Bersini H., L’intelligence artificielle peut-elle engendrer des artistes authentiques ?, Academie Royale de Belgique, 2020
+
+
+Neural Style Transfer
